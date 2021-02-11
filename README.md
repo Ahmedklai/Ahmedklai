@@ -5,15 +5,14 @@
 
 ## I'm a Car lover , Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Write more articles . 
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hmed Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -52,43 +51,27 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
-- [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
-- [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
-- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
-- [TypeScript Crash Course 2021 | The Basics From Scratch!](https://www.youtube.com/watch?v=wyO8RWl1ges)
+- [Flutter session 5 : Animations (github1s)](https://www.youtube.com/watch?v=mm58Ap9YN3c&t=4096s)
+- [Flutter session 4 : Dart async programming + REST api integration](https://www.youtube.com/watch?v=TWUtr6i7_cg)
+- [Flutter session 3 : Flutter Widgets Overview](https://www.youtube.com/watch?v=ChFt0tbY9TQ&t=4s)
+- [Flutter session 1 : Flutter Introduction](https://www.youtube.com/watch?v=4Vs-eWkEvms)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCJ73XE7uJP19TQWoQIvbf5Q)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🎉 Merged PR [#4](https://github.com/codeSTACKr/free-developer-resources/pull/4) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🎉 Merged PR [#3](https://github.com/codeSTACKr/free-developer-resources/pull/3) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. ❗️ Closed issue [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
 
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -98,11 +81,9 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: hthttps://www.instagram.com/ahmed_klaiii/
+[linkedin]: https://www.linkedin.com/in/ahmed-klai-264616191/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
