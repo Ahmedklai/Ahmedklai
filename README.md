@@ -51,7 +51,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter session 5 : Animations (github1s)](https://www.youtube.com/watch?v=mm58Ap9YN3c&t=4096s)
+- [Flutter session 5 : Animations ](https://www.youtube.com/watch?v=mm58Ap9YN3c&t=4096s)
 - [Flutter session 4 : Dart async programming + REST api integration](https://www.youtube.com/watch?v=TWUtr6i7_cg)
 - [Flutter session 3 : Flutter Widgets Overview](https://www.youtube.com/watch?v=ChFt0tbY9TQ&t=4s)
 - [Flutter session 1 : Flutter Introduction](https://www.youtube.com/watch?v=4Vs-eWkEvms)
