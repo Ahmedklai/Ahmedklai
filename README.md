@@ -51,10 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter session 5 : Animations (github1s)](https://www.youtube.com/watch?v=mm58Ap9YN3c&t=4096s)
-- [Flutter session 4 : Dart async programming + REST api integration](https://www.youtube.com/watch?v=TWUtr6i7_cg)
-- [Flutter session 3 : Flutter Widgets Overview](https://www.youtube.com/watch?v=ChFt0tbY9TQ&t=4s)
-- [Flutter session 1 : Flutter Introduction](https://www.youtube.com/watch?v=4Vs-eWkEvms)
+- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
+- [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
+- [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
+- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
+- [TypeScript Crash Course 2021 | The Basics From Scratch!](https://www.youtube.com/watch?v=wyO8RWl1ges)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCJ73XE7uJP19TQWoQIvbf5Q)
@@ -64,7 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
