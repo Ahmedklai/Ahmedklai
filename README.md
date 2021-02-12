@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Write more articles . 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Write more articles and make Abs .. 
+- ⚡ I'm currently reading 
 
 ### Spotify Playing 🎧
 
@@ -73,7 +73,12 @@
 
 
 
+ <details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
