@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Write more articles and make Abs .. 
-- ⚡ I'm currently reading 
+- 🥅 2020 Goals: Write more articles and make Abs ..
+- ⚡ I'm currently reading Rich dad Poor dad .
 
 ### Spotify Playing 🎧
 
@@ -51,6 +51,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Flutter session 5 : Animations ](https://www.youtube.com/watch?v=mm58Ap9YN3c&t=4096s)
 - [Flutter session 4 : Dart async programming + REST api integration](https://www.youtube.com/watch?v=TWUtr6i7_cg)
 - [Flutter session 3 : Flutter Widgets Overview](https://www.youtube.com/watch?v=ChFt0tbY9TQ&t=4s)
@@ -66,12 +67,10 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
--part-2-advanced-4c65)
-ackr.com)
+
+[Flutter local databases](https://insatandroidclub.medium.com/flutter-local-databases-a12827448e6)
 
 ---
-
-
 
  <details>
   <summary>:zap: GitHub Stats</summary>
