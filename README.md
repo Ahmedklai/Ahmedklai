@@ -66,6 +66,8 @@
 [Flutter local databases](https://insatandroidclub.medium.com/flutter-local-databases-a12827448e6)
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedklai)](https://github.com/Ahmedklai/github-readme-stats)
+
 
 [youtube]: hthttps://www.instagram.com/ahmed_klaiii/
 [linkedin]: https://www.linkedin.com/in/ahmed-klai-264616191/
