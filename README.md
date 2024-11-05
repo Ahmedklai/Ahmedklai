@@ -2,13 +2,6 @@
 
 ## I'm a Car lover , Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Write more articles and make Abs ..
-- ⚡ I'm currently reading Rich dad Poor dad .
-
-### Spotify Playing 🎧
-
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hmed Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
